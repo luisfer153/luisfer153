@@ -1,7 +1,6 @@
 
 
 
-<img align='right' src='https://github.com/luisfer153/luisfer153/blob/master/assets/grey%20background2.gif'>  
 
 <br>
 <br>
