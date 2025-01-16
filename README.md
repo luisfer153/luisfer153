@@ -7,7 +7,7 @@
 <br>
 
 * 👽 `My name is`: **Luis**
-* 💻 `Favorite lang`: **Java & C++**
+* 💻 `Favorite lang`: **Java & python**
 * 🎮 `Hobbies`: **Gaming & Coding**
 
 ## 🛠 &nbsp;Techs
