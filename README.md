@@ -6,6 +6,11 @@
 <br>
 <br>
 
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=650&height=75&lines=Software+Developer;Innovation+starts+with+curiosity;Always+learning+new+things;Designing+fun%2C+developing+memories;Turning+ideas+into+clean+and+scalable+code.;efficient+solutions%2C+one+function+at+a+time.;Ensuring+server+uptime+and+performance.;simple+scripts+to+complex+problems." alt="Typing SVG" /></a>
+</p>
+
 * 👽 `My name is`: **Luis**
 * 💻 `Favorite lang`: **Java & python**
 * 🎮 `Hobbies`: **Gaming & Coding**
