@@ -37,3 +37,10 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-05122A?style=flat&logo=Google-Cloud)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=Heroku)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=Vercel)&nbsp; 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisfer153/luisfer153/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisfer153/luisfer153/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/luisfer153/luisfer153/output/github-snake.svg" />
+</picture>
